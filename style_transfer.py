@@ -10,7 +10,7 @@ tf.executing_eagerly()
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 st.set_page_config(
-    page_title="Style Transfer", layout="wide", page_icon="./images/icon.png"
+    page_title="Style Transfer", layout="wide"
 )
 
 def crop_center(image):
