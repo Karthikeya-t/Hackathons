@@ -21,7 +21,7 @@ tensorflow_hub==0.12.0
 ## Installation
 
 ```bash
-git clone https://github.com/Otman404/style-transfer.git
+git clone <this repo>
 cd style-transfer
 pip install -r requirements.txt
 streamlit run style_transfer.py
